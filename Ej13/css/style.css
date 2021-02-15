@@ -1,0 +1,41 @@
+table{
+    text-align: left; 
+    width: 100%; 
+    margin-left: auto; 
+    margin-right: auto;
+    border: grey 3px solid;
+}
+tr{
+    align-self: center;
+}
+th{
+    vertical-align: top; 
+    background-color: rgb(153, 255, 153);
+    font-size: 0.60cm;
+}
+td.azulad{
+    vertical-align: middle; 
+    text-align: left; 
+    background-color: rgb(102,255,255);
+    font-size: 0.60cm;
+}
+td.rojizo{
+    vertical-align: top; 
+    text-align: center; 
+    color: red;
+    font-size: 0.60cm;
+}
+td.nocol{
+    vertical-align: top; 
+    text-align: center;
+    font-size: 0.60cm;
+}
+td.rosi{
+    vertical-align: bottom; 
+    text-align: right; 
+    background-color: rgb(255,153,255);
+    font-size: 0.60cm;
+}
+span{
+    font-weight: bold;
+}

@@ -1,0 +1,14 @@
+table{
+    border: rgb(0, 217, 255) 1px solid;
+    background-color: rgb(105, 153, 255);
+}
+th{
+    color: rgb(63, 238, 238);
+    background-color: rgb(2, 71, 50);
+}
+tr.azulFloj{
+    background-color: rgb(61, 231, 166);
+}
+tr.azulFuer{
+    background-color: rgb(43, 165, 118);
+}

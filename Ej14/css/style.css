@@ -1,0 +1,25 @@
+body{
+    color: rgb(0, 0, 0); 
+    background-color: rgb(255, 255, 255);
+     background-image: url(/images/pinguino.jpg);
+    background-repeat: no-repeat;
+    background-position: center 0%;
+}
+table{
+    text-align: left; 
+    width: 100%; 
+    background-color: rgb(255, 255, 153); 
+    margin-left: auto; 
+    margin-right: auto; 
+    height: 10%;
+    width: 50%;
+}
+th{
+    vertical-align: middle; 
+    background-color: white; 
+    text-align: center;
+}
+td{
+    vertical-align: middle; 
+    text-align: center;
+}
